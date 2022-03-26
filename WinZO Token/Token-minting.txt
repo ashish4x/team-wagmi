@@ -1,0 +1,2 @@
+spl-token create token 
+spl-token mint <address> 1000000

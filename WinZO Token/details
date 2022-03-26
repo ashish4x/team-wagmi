@@ -1,0 +1,8 @@
+Token Name: HackNSUT-WinZo
+Token Symbol: WinZo
+Total Supply: 10000000
+Token Adrress:9d9hzhMmwu7DwPyQAa6HgizrcUoFAwbvRUZTM83uGm7i
+Team WAGMI Wallet: 3RgDwqAwLYZm2FY3tHzNYGYCG6g7gpKo73AzBuiLDYnZ
+Minting transaction: https://solscan.io/tx/4zhNz8oLukmS57B1qc7LQFMYwV2VUaZ2UhMUdUANNtKQmgNV4PvCMgvQdJMYmnN7dvrTbPdevRJsqpnwkbXUsWjo?cluster=devnet
+
+##We need to make a PR in Solana-SPL library for universal token name and logo and this might even take upto a week.
