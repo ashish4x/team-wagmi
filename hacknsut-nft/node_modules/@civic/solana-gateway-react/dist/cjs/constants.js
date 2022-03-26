@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.IFRAME_ID = exports.TESTID_IFRAME_CLOSE_BTN = exports.TESTID_RECONNECT_WALLET = exports.TESTID_WRAPPER_CONTAINER = exports.TESTID_WRAPPER = exports.TESTID_IFRAME = void 0;
+exports.TESTID_IFRAME = 'IFRAME';
+exports.TESTID_WRAPPER = 'WRAPPER';
+exports.TESTID_WRAPPER_CONTAINER = 'WRAPPER_CONTAINER';
+exports.TESTID_RECONNECT_WALLET = 'RECONNECT_WALLET';
+exports.TESTID_IFRAME_CLOSE_BTN = 'TESTID_IFRAME_CLOSE_BTN';
+exports.IFRAME_ID = 'CIVIC_PASS_IFRAME';
